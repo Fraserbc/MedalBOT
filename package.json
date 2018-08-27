@@ -1,0 +1,18 @@
+{
+  "name": "medalbot-discordjs",
+  "version": "0.0.1",
+  "description": "A discord bot",
+  "main": "server.js",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fraserbc/MedalBOT.git"
+  },
+  "homepage": "https://github.com/Fraserbc/MedalBOT"
+}
